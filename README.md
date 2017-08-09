@@ -1,1 +1,1 @@
-# pico_boo
+Record and play scare animation.
